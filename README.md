@@ -1,5 +1,5 @@
 # FabricJS layer on top of Mozilla's PDFJS to add ANNOTATIONS
-https://user-images.githubusercontent.com/104326796/173220081-d58b7545-63c1-48b9-813d-e537d5765adb.jpg
+![Screenshot](https://user-images.githubusercontent.com/104326796/173220081-d58b7545-63c1-48b9-813d-e537d5765adb.jpg)
 ![Alt text](./Screenshot.png?raw=true "Screenshot_1")
 
 # Features
